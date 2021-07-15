@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey There It's Aditya Choudhary ( RowdyDevOP ), Developer Of [MATE Bot](https://guitarhost.tech) And a part time developer.
+### Hey There It's Aditya Choudhary ( RowdyDevOP ), Developer Of [MATE Bot](https://discord.com/oauth2/authorize?client_id=761150824754839583&permissions=473427062&scope=bot) And a part time developer.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RowdyDevOP" alt="sujal-ops-cyber" /> </p>
 
