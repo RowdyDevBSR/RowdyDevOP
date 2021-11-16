@@ -53,12 +53,6 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=RowdyDevOP&style=flat-square)
-![status](https://dev.discordprofiles.me/badge/status/612817091921444864?style=flat-square)
-![playing](https://dev.discordprofiles.me/badge/playing/612817091921444864?style=flat-square)
-![vscode](https://dev.discordprofiles.me/badge/vscode/612817091921444864?style=flat-square)
-![intellij](https://dev.discordprofiles.me/badge/intellij/612817091921444864?style=flat-square)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/612817091921444864?style=flat-square)](https://dev.discordprofiles.me/openspotify/612817091921444864?style=flat-square)
 </div>
 
 
