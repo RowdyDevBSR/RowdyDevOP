@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Advance Music Bot projects
+- 🔭 I’m currently working on MATE Bot Project.
 - 🌱 I’m currently learning Web Development
 <div align = "center">
 <p align="center">
