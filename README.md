@@ -49,7 +49,6 @@ Here are some ideas to get you started:
         <img src="https://github-readme-streak-stats.herokuapp.com?user=RowdyDevOP&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=00ff99&ring=00ff99&stroke=FFFFFFFF)](https://git.io/streak-stats" />
     </a>
     
-    </a>
 </p>
 
 </div>
