@@ -26,13 +26,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MATE Bot Project.
 - 🌱 I’m currently learning Web Development
-
-    </a>
+<div align = "center">
+<p align="center">
+    
 <p align="centre"> 
-
-<a href="https://youtube.com/channel/UC8-lkK90v2mVhn1YqN4-a0A"> <img width="30px" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/icons8-youtube-music-500.png" title="Telegram"/></a>
-
-<a href="https://officialaditya.tk/"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-website-100.png" title="Telegram"/></a>
+<a href="https://youtube.com/channel/UC8-lkK90v2mVhn1YqN4-a0A"> <img width="30px" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/icons8-youtube-music-500.png" title="YouTube"/></a>
+<a href="https://officialaditya.tk/"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-website-100.png" title="Website"/></a>
 <a href="mailto: jals15126@gmail.com"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-email-100.png" title="Email"/> </a><br>
 </p>
 
