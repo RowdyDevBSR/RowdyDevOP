@@ -32,9 +32,9 @@ Here are some ideas to get you started:
         <img src="./Banner.png" />
     </a>
 <p align="centre"> 
-<a href="https://twitter.com/AdityaC53872612"> <img width="30px" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/icons8-twitter-100.png" title="Telegram"/></a>
+<
 <a href="https://youtube.com/channel/UC8-lkK90v2mVhn1YqN4-a0A"> <img width="30px" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/icons8-youtube-music-500.png" title="Telegram"/></a>
-<a href="https://t.me/RowdyKing2021"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-telegram-app-500.png" title="Telegram"/></a>
+>
 <a href="https://officialaditya.tk/"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-website-100.png" title="Telegram"/></a>
 <a href="mailto: jals15126@gmail.com"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-email-100.png" title="Email"/> </a><br>
 </p>
