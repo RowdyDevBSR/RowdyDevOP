@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RowdyDevOP" alt="sujal-ops-cyber" /> </p>
 
-![Discord](https://discord.c99.nl/widget/theme-3/612817091921444864.png)
 
 
 ### Hi there 👋
